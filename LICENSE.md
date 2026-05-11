@@ -1,4 +1,4 @@
-#  
+#  fish it vip Scripts is the best fish it Script, featuring god mode and auto-heal. Safe and powerful for all your needs.
 
 
 
